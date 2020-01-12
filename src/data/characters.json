@@ -1,0 +1,402 @@
+[
+    {
+        "id" : 1,
+        "name" : "A-Bomb"
+    },
+    {
+        "id" : 2,
+        "name" : "Abe Sapien"
+    },
+    {
+        "id" : 3,
+        "name" : "Abin Sur"
+    },
+    {
+        "id" : 4,
+        "name" : "Abomination"
+    },
+    {
+        "id" : 5,
+        "name" : "Abraxas"
+    },
+    {
+        "id" : 6,
+        "name" : "Absorbing Man"
+    },
+    {
+        "id" : 7,
+        "name" : "Adam Monroe"
+    },
+    {
+        "id" : 8,
+        "name" : "Adam Strange"
+    },
+    {
+        "id" : 9,
+        "name" : "Agent 13"
+    },
+    {
+        "id" : 10,
+        "name" : "Agent Bob"
+    },
+    {
+        "id" : 11,
+        "name" : "Agent Zero"
+    },
+    {
+        "id" : 12,
+        "name" : "Air-Walker"
+    },
+    {
+        "id" : 13,
+        "name" : "Ajax"
+    },
+    {
+        "id" : 14,
+        "name" : "Alan Scott"
+    },
+    {
+        "id" : 15,
+        "name" : "Alex Mercer"
+    },
+    {
+        "id" : 16,
+        "name" : "Alex Woolsly"
+    },
+    {
+        "id" : 17,
+        "name" : "Alfred Pennyworth"
+    },
+    {
+        "id" : 18,
+        "name" : "Alien"
+    },
+    {
+        "id" : 19,
+        "name" : "Allan Quatermain"
+    },
+    {
+        "id" : 20,
+        "name" : "Amazo"
+    },
+    {
+        "id" : 21,
+        "name" : "Ammo"
+    },
+    {
+        "id" : 22,
+        "name" : "Ando Masahashi"
+    },
+    {
+        "id" : 23,
+        "name" : "Angel"
+    },
+    {
+        "id" : 24,
+        "name" : "Angel"
+    },
+    {
+        "id" : 25,
+        "name" : "Angel Dust"
+    },
+    {
+        "id" : 26,
+        "name" : "Angel Salvadore"
+    },
+    {
+        "id" : 27,
+        "name" : "Angela"
+    },
+    {
+        "id" : 28,
+        "name" : "Animal Man"
+    },
+    {
+        "id" : 29,
+        "name" : "Annihilus"
+    },
+    {
+        "id" : 30,
+        "name" : "Ant-Man"
+    },
+    {
+        "id" : 31,
+        "name" : "Ant-Man II"
+    },
+    {
+        "id" : 32,
+        "name" : "Anti-Monitor"
+    },
+    {
+        "id" : 33,
+        "name" : "Anti-Spawn"
+    },
+    {
+        "id" : 34,
+        "name" : "Anti-Venom"
+    },
+    {
+        "id" : 35,
+        "name" : "Apocalypse"
+    },
+    {
+        "id" : 36,
+        "name" : "Aquababy"
+    },
+    {
+        "id" : 37,
+        "name" : "Aqualad"
+    },
+    {
+        "id" : 38,
+        "name" : "Aquaman"
+    },
+    {
+        "id" : 39,
+        "name" : "Arachne"
+    },
+    {
+        "id" : 40,
+        "name" : "Archangel"
+    },
+    {
+        "id" : 41,
+        "name" : "Arclight"
+    },
+    {
+        "id" : 42,
+        "name" : "Ardina"
+    },
+    {
+        "id" : 43,
+        "name" : "Ares"
+    },
+    {
+        "id" : 44,
+        "name" : "Ariel"
+    },
+    {
+        "id" : 45,
+        "name" : "Armor"
+    },
+    {
+        "id" : 46,
+        "name" : "Arsenal"
+    },
+    {
+        "id" : 47,
+        "name" : "Astro Boy"
+    },
+    {
+        "id" : 48,
+        "name" : "Atlas"
+    },
+    {
+        "id" : 49,
+        "name" : "Atlas"
+    },
+    {
+        "id" : 50,
+        "name" : "Atom"
+    },
+    {
+        "id" : 51,
+        "name" : "Atom"
+    },
+    {
+        "id" : 52,
+        "name" : "Atom Girl"
+    },
+    {
+        "id" : 53,
+        "name" : "Atom II"
+    },
+    {
+        "id" : 54,
+        "name" : "Atom III"
+    },
+    {
+        "id" : 55,
+        "name" : "Atom IV"
+    },
+    {
+        "id" : 56,
+        "name" : "Aurora"
+    },
+    {
+        "id" : 57,
+        "name" : "Azazel"
+    },
+    {
+        "id" : 58,
+        "name" : "Azrael"
+    },
+    {
+        "id" : 59,
+        "name" : "Aztar"
+    },
+    {
+        "id" : 60,
+        "name" : "Bane"
+    },
+    {
+        "id" : 61,
+        "name" : "Banshee"
+    },
+    {
+        "id" : 62,
+        "name" : "Bantam"
+    },
+    {
+        "id" : 63,
+        "name" : "Batgirl"
+    },
+    {
+        "id" : 64,
+        "name" : "Batgirl"
+    },
+    {
+        "id" : 65,
+        "name" : "Batgirl III"
+    },
+    {
+        "id" : 66,
+        "name" : "Batgirl IV"
+    },
+    {
+        "id" : 67,
+        "name" : "Batgirl V"
+    },
+    {
+        "id" : 68,
+        "name" : "Batgirl VI"
+    },
+    {
+        "id" : 69,
+        "name" : "Batman"
+    },
+    {
+        "id" : 70,
+        "name" : "Batman"
+    },
+    {
+        "id" : 71,
+        "name" : "Batman II"
+    },
+    {
+        "id" : 72,
+        "name" : "Battlestar"
+    },
+    {
+        "id" : 73,
+        "name" : "Batwoman V"
+    },
+    {
+        "id" : 74,
+        "name" : "Beak"
+    },
+    {
+        "id" : 75,
+        "name" : "Beast"
+    },
+    {
+        "id" : 76,
+        "name" : "Beast Boy"
+    },
+    {
+        "id" : 77,
+        "name" : "Beetle"
+    },
+    {
+        "id" : 78,
+        "name" : "Ben 10"
+    },
+    {
+        "id" : 79,
+        "name" : "Beta Ray Bill"
+    },
+    {
+        "id" : 80,
+        "name" : "Beyonder"
+    },
+    {
+        "id" : 81,
+        "name" : "Big Barda"
+    },
+    {
+        "id" : 82,
+        "name" : "Big Daddy"
+    },
+    {
+        "id" : 83,
+        "name" : "Big Man"
+    },
+    {
+        "id" : 84,
+        "name" : "Bill Harken"
+    },
+    {
+        "id" : 85,
+        "name" : "Billy Kincaid"
+    },
+    {
+        "id" : 86,
+        "name" : "Binary"
+    },
+    {
+        "id" : 87,
+        "name" : "Bionic Woman"
+    },
+    {
+        "id" : 88,
+        "name" : "Bird-Brain"
+    },
+    {
+        "id" : 89,
+        "name" : "Bird-Man"
+    },
+    {
+        "id" : 90,
+        "name" : "Bird-Man II"
+    },
+    {
+        "id" : 91,
+        "name" : "Birdman"
+    },
+    {
+        "id" : 92,
+        "name" : "Bishop"
+    },
+    {
+        "id" : 93,
+        "name" : "Bizarro"
+    },
+    {
+        "id" : 94,
+        "name" : "Black Abbott"
+    },
+    {
+        "id" : 95,
+        "name" : "Black Adam"
+    },
+    {
+        "id" : 96,
+        "name" : "Black Bolt"
+    },
+    {
+        "id" : 97,
+        "name" : "Black Canary"
+    },
+    {
+        "id" :98,
+        "name" : "Black Canary"
+    },
+    {
+        "id" : 99,
+        "name" : "Black Cat"
+    },
+    {
+        "id" : 100,
+        "name" : "Black Flash"
+    }
+]

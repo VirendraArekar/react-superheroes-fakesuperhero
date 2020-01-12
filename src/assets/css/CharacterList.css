@@ -1,0 +1,16 @@
+.product-box{
+    padding:50;
+    height:"370px";
+    padding:30
+}
+
+
+.product-box:hover{
+    height:370px;
+    border:1px solid lightgray;
+    border-radius:8px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.4);
+    transition:opacity 0.3s ease-in-out;
+    background-color: #263238;
+    color:white;
+}
